@@ -34,10 +34,6 @@ Welcome to the Personal Task Manager! This is the front-end part of a task manag
     ```bash
     cd personal-task-management
     ```
-3. Navigate to the client directory:
-    ```bash
-    cd client
-    ```
 4. Install dependencies:
     ```bash
     npm install
